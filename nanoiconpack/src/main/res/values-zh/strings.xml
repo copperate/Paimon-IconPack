@@ -82,7 +82,6 @@
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">版权所有</string>
     <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
-    <string name="preference_category_support">赞助支持</string>
     <string name="preference_support_title_donate">通过支付宝捐赠</string>
     <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>
     <string name="preference_support_title_todo_1"></string>
@@ -111,5 +110,6 @@
     <string name="prompt_req_mark">提醒标记</string>
     <string name="prompt_req_add">提醒补充适配</string>
     <string name="search_hint">搜索图标&#8230;</string>
+    <string name="preference_category_support">其它信息</string>
 
 </resources>

@@ -84,7 +84,6 @@
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">Copyright</string>
     <string name="preference_icons_summary_copyright">Copyright &#169; 2017 By_syk. All rights reserved.</string>
-    <string name="preference_category_support">Donate &amp; support</string>
     <string name="preference_support_title_donate">Donate via Alipay</string>
     <string name="preference_support_summary_donate">[By_syk@163.com](alipay:https://qr.alipay.com/aex05154fiiurupx5ai0dd1|By_syk@163.com)</string>
     <string name="preference_support_title_todo_1"></string>
@@ -115,5 +114,6 @@
     <string name="prompt_req_mark">To mark</string>
     <string name="prompt_req_add">To add</string>
     <string name="search_hint">Search icons&#8230;</string>
+    <string name="preference_category_support">Other Info</string>
 
 </resources>
