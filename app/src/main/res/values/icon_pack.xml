@@ -21,78 +21,169 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
         <!-- A -->
+        <item>alipay</item>
+        <item>amap</item>
         <!-- B -->
+        <item>baidu</item>
+        <item>bilibili</item>
+        <item>browser</item>
         <!-- C -->
         <item>calendar</item>
+        <item>calculator</item>
+
+        <item>camera</item>
+        <item>clock</item>
+        <item>compass</item>
+        <item>contact</item>
+        <item>ctrip</item>
         <!-- D -->
+        <item>dazhongdianping</item>
+        <item>dialer</item>
         <!-- E -->
+        <item>easyshare</item>
+        <item>email</item>
         <!-- F -->
+        <item>files</item>
         <!-- G -->
+        <item>gallery</item>
+        <item>gamecenter</item>
         <!-- H -->
+        <item>health</item>
+        <item>hoyolab</item>
         <!-- I -->
         <!-- J -->
+        <item>jingdong</item>
         <!-- K -->
+        <item>kwai</item>
         <!-- L -->
         <!-- M -->
+        <item>market</item>
+        <item>market2</item>
+        <item>message</item>
+        <item>messaging</item>
+        <item>music</item>
+        <item>musicplayer</item>
         <!-- N -->
-        <item>nano_icon_pack</item>
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
+        <item>notes</item>
         <!-- O -->
         <!-- P -->
+        <item>phone</item>
+        <item>pinduoduo</item>
         <!-- Q -->
+        <item>qq</item>
+        <item>qqvideo</item>
         <!-- R -->
+        <item>reader</item>
         <!-- S -->
+        <item>screenrecorder</item>
+        <item>securitycenter</item>
+        <item>service</item>
+        <item>settings</item>
+        <item>sms</item>
         <!-- T -->
+        <item>taobao</item>
+        <item>thememanager</item>
+        <item>tiktok</item>
+        <item>toutiao</item>
         <!-- U -->
         <!-- V -->
+        <item>videoplayer</item>
+        <item>voiceassistant</item>
         <!-- W -->
+        <item>wallet</item>
+        <item>weather</item>
+        <item>wechat</item>
+        <item>weibo</item>
         <!-- X -->
+        <item>ximalaya</item>
         <!-- Y -->
+        <item>yuanshen</item>
         <!-- Z -->
+        <item>zhihu</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
+        <item>Alipay</item>
+        <item>Amap</item>
         <!-- B -->
+        <item>Baidu Search App</item>
+        <item>Bilibili</item>
+        <item>Browser</item>
         <!-- C -->
         <item>Calendar</item>
+        <item>Calculator</item>
+
+        <item>Camera</item>
+        <item>Clock</item>
+        <item>Compass</item>
+        <item>Contact</item>
+        <item>Ctrip</item>
         <!-- D -->
+        <item>Da Zhong Dian Ping</item>
+        <item>Dialer</item>
         <!-- E -->
+        <item>Easyshare</item>
+        <item>Email</item>
         <!-- F -->
+        <item>Files</item>
         <!-- G -->
+        <item>Gallery</item>
+        <item>Game Center</item>
         <!-- H -->
+        <item>Health</item>
+        <item>Hoyolab</item>
         <!-- I -->
         <!-- J -->
+        <item>Jingdong</item>
         <!-- K -->
+        <item>Kwai</item>
         <!-- L -->
         <!-- M -->
+        <item>Market</item>
+        <item>Market_Alt</item>
+        <item>Message</item>
+        <item>Messaging</item>
+        <item>Music</item>
+        <item>Music Player</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>Notes</item>
         <!-- O -->
         <!-- P -->
+        <item>Call</item>
+        <item>Pinduoduo</item>
         <!-- Q -->
+        <item>QQ</item>
+        <item>QQ Video</item>
         <!-- R -->
+        <item>Reader</item>
         <!-- S -->
+        <item>Screen Recorder</item>
+        <item>Security Center</item>
+        <item>Service</item>
+        <item>Settings</item>
         <!-- T -->
+        <item>Taobao</item>
+        <item>Theme Manager</item>
+        <item>Tiktok</item>
+        <item>Toutiao</item>
         <!-- U -->
         <!-- V -->
+        <item>Video Player</item>
+        <item>Voice Assistant</item>
         <!-- W -->
+        <item>Wallet</item>
+        <item>Weather</item>
+        <item>Wechat</item>
+        <item>Weibo</item>
         <!-- X -->
+        <item>Ximalaya</item>
         <!-- Y -->
+        <item>Genshin Impact</item>
         <!-- Z -->
+        <item>Zhihu</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->

@@ -32,7 +32,7 @@
     <string name="dlg_bt_donate_too">我也捐赠</string>
 
     <string name="menu_whats_new">更新了啥</string>
-    <string name="menu_apply">应用</string>
+    <string name="menu_apply">应用至启动器</string>
     <string name="menu_about">关于</string>
     <string name="menu_filter">过滤</string>
     <string name="menu_show_unmarked">显示未标记</string>

@@ -21,39 +21,85 @@
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
+        <item>支付宝</item>
+        <item>高德地图</item>
         <!-- B -->
+        <item>百度搜索App</item>
+        <item>哔哩哔哩</item>
+        <item>浏览器</item>
         <!-- C -->
         <item>日历</item>
+        <item>计算器</item>
+
+        <item>相机</item>
+        <item>时钟</item>
+        <item>指南针</item>
+        <item>联系人</item>
+        <item>携程旅行</item>
         <!-- D -->
+        <item>大众点评</item>
+        <item>拨号盘</item>
         <!-- E -->
+        <item>互传</item>
+        <item>电子邮件</item>
         <!-- F -->
+        <item>文件</item>
         <!-- G -->
+        <item>相册</item>
+        <item>游戏中心</item>
         <!-- H -->
+        <item>健康</item>
+        <item>米游社</item>
         <!-- I -->
         <!-- J -->
+        <item>京东</item>
         <!-- K -->
+        <item>快手</item>
         <!-- L -->
         <!-- M -->
+        <item>市场</item>
+        <item>商店</item>
+        <item>信息</item>
+        <item>信息</item>
+        <item>音乐</item>
+        <item>音乐播放器</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>笔记</item>
         <!-- O -->
         <!-- P -->
+        <item>电话</item>
+        <item>拼多多</item>
         <!-- Q -->
+        <item>QQ</item>
+        <item>腾讯视频</item>
         <!-- R -->
+        <item>阅读</item>
         <!-- S -->
+        <item>录制屏幕</item>
+        <item>安全中心</item>
+        <item>服务</item>
+        <item>设置</item>
+        <item>短信</item>
         <!-- T -->
+        <item>淘宝</item>
+        <item>主题管理</item>
+        <item>抖音</item>
+        <item>今日头条</item>
         <!-- U -->
         <!-- V -->
+        <item>视频播放器</item>
+        <item>语音助手</item>
         <!-- W -->
+        <item>钱包</item>
+        <item>天气</item>
+        <item>微信</item>
+        <item>微博</item>
         <!-- X -->
+        <item>喜马拉雅</item>
         <!-- Y -->
+        <item>原神</item>
         <!-- Z -->
+        <item>知乎</item>
     </string-array>
 
 </resources>

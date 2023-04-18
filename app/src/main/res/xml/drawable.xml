@@ -21,37 +21,104 @@
     <version>1</version>
 
     <category title="Basic" /><!-- Copy basic icons here from All category -->
-    <!--<item drawable="browser" />-->
-    <!--<item drawable="calculator" />-->
+    <item drawable="browser" />
+    <item drawable="calculator" />
     <item drawable="calendar" />
-    <!--<item drawable="camera" />-->
-    <!--<item drawable="clock" />-->
-    <!--<item drawable="contacts" />-->
-    <!--<item drawable="email" />-->
-    <!--<item drawable="gallery" />-->
-    <!--<item drawable="music" />-->
-    <!--<item drawable="phone" />-->
-    <!--<item drawable="settings" />-->
-    <!--<item drawable="sms" />-->
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="contacts" />
+    <item drawable="email" />
+    <item drawable="gallery" />
+    <item drawable="music" />
+    <item drawable="phone" />
+    <item drawable="settings" />
+    <item drawable="sms" />
 
     <category title="Game" /><!-- Copy game icons here from All category -->
 
     <category title="Alternative" /><!-- Copy alternative icons here from All category -->
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
+
 
     <category title="All(8)" /><!-- All icons here -->
+    <!-- A -->
+    <item drawable="alipay" />
+    <item drawable="amap" />
+    <!-- B -->
+    <item drawable="baidu" />
+    <item drawable="bilibili" />
+    <item drawable="browser" />
+    <!-- C -->
     <item drawable="calendar" />
-    <item drawable="nano_icon_pack" />
-    <item drawable="nano_icon_pack_1" />
-    <item drawable="nano_icon_pack_2" />
-    <item drawable="nano_icon_pack_3" />
-    <item drawable="nano_icon_pack_4" />
-    <item drawable="nano_icon_pack_5" />
-    <item drawable="nano_icon_pack_6" />
+    <item drawable="calculator" />
+
+    <item drawable="camera" />
+    <item drawable="clock" />
+    <item drawable="compass" />
+    <item drawable="contact" />
+    <item drawable="ctrip" />
+    <!-- D -->
+    <item drawable="dazhongdianping" />
+    <item drawable="dialer" />
+    <!-- E -->
+    <item drawable="easyshare" />
+    <item drawable="email" />
+    <!-- F -->
+    <item drawable="files" />
+    <!-- G -->
+    <item drawable="gallery" />
+    <item drawable="gamecenter" />
+    <!-- H -->
+    <item drawable="health" />
+    <item drawable="hoyolab" />
+    <!-- I -->
+    <!-- J -->
+    <item drawable="jingdong" />
+    <!-- K -->
+    <item drawable="kwai" />
+    <!-- L -->
+    <!-- M -->
+    <item drawable="market" />
+    <item drawable="market2" />
+    <item drawable="message" />
+    <item drawable="messaging" />
+    <item drawable="music" />
+    <item drawable="musicplayer" />
+    <!-- N -->
+    <item drawable="notes" />
+    <!-- O -->
+    <!-- P -->
+    <item drawable="phone" />
+    <item drawable="pinduoduo" />
+    <!-- Q -->
+    <item drawable="qq" />
+    <item drawable="qqvideo" />
+    <!-- R -->
+    <item drawable="reader" />
+    <!-- S -->
+    <item drawable="screenrecorder" />
+    <item drawable="securitycenter" />
+    <item drawable="service" />
+    <item drawable="settings" />
+    <item drawable="sms" />
+    <!-- T -->
+    <item drawable="taobao" />
+    <item drawable="thememanager" />
+    <item drawable="tiktok" />
+    <item drawable="toutiao" />
+    <!-- U -->
+    <!-- V -->
+    <item drawable="videoplayer" />
+    <item drawable="voiceassistant" />
+    <!-- W -->
+    <item drawable="wallet" />
+    <item drawable="weather" />
+    <item drawable="wechat" />
+    <item drawable="weibo" />
+    <!-- X -->
+    <item drawable="ximalaya" />
+    <!-- Y -->
+    <item drawable="yuanshen" />
+    <!-- Z -->
+    <item drawable="zhihu" />
 
 </resources>

@@ -34,12 +34,12 @@
     <!--<item
         component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT"
         drawable="drawer_night" />-->
-    <!--<item
+    <item
         component=":BROWSER"
-        drawable="browser" />-->
-    <!--<item
+        drawable="browser" />
+    <item
         component=":CALCULATOR"
-        drawable="calculator" />-->
+        drawable="calculator" />
     <item
         component=":CALENDAR"
         drawable="calendar" />
