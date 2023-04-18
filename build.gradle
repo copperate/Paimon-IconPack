@@ -2,12 +2,13 @@
 
 buildscript {
     repositories {
+        google()
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:7.2.0'
 
-        // NOTE: Do not place your application dependencies here; they belong
+        // NOTE: Do not place your application dependencies here; they belong 3.0.1
         // in the individual module build.gradle files
     }
 }
@@ -18,6 +19,7 @@ allprojects {
         google()
         maven { url "https://jitpack.io" }
         flatDir { dirs '../nanoiconpack/libs' }
+        mavenCentral()
     }
 }
 
