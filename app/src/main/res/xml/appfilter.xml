@@ -18,14 +18,14 @@
 <!-- For Nova, Apex, ADW, Smart, Action 3 -->
 <resources>
 
-    <!--<iconback
+    <iconback
         img1="iconback" />
     <iconmask
         img1="iconmask" />
     <iconupon
         img1="iconupon" />
     <scale
-        factor="0.6" />-->
+        factor="0.8" />
 
     <!-- Just for Nova -->
     <!--<item
@@ -171,4 +171,149 @@
         component="ComponentInfo{com.by_syk.nanoiconpack.sample/com.by_syk.lib.nanoiconpack.MainActivity}"
         drawable="nano_icon_pack" />
 
+    <!-- App Icons-->
+    <item
+            component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
+            drawable="alipay" />
+    <item
+            component="ComponentInfo{com.amap}"
+            drawable="amap" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.baidu.searchboxapp}"
+            drawable="baidu" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+            drawable="bilibili" />
+    <item
+            component="ComponentInfo{com.bilibili.app.in}"
+            drawable="bilibili" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}"
+            drawable="browser" />
+    <item
+            component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}"
+            drawable="calculator" />
+    <item
+            component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}"
+            drawable="camera" />
+    <item
+            component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}"
+            drawable="clock" />
+    <item
+            component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}"
+            drawable="compass" />
+    <item
+            component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
+            drawable="contact" />
+    <item
+            component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}"
+            drawable="ctrip" />
+    <item
+            component="ComponentInfo{com.dazhong.dianping/}"
+            drawable="dazhongdianping" /> <!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.android.dialer/com.android.dialer.TwelveKeyDialer}"
+            drawable="dialer" />
+    <item
+            component="ComponentInfo{com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity}"
+            drawable="easyshare" />
+    <item
+            component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}"
+            drawable="email" />
+    <item
+            component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}"
+            drawable="files" />
+    <item
+            component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}"
+            drawable="gallery" />
+    <item
+            component="ComponentInfo{com.vivo.game/com.vivo.game.ui.LogoActivity}"
+            drawable="gamecenter" />
+    <item
+            component="ComponentInfo{com.android.health}"
+            drawable="helath" /> <!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
+            drawable="hoyolab" />
+    <item
+            component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.main.HyperionMainActivity}"
+            drawable="hoyolab" />
+    <item
+            component="ComponentInfo{com.mihoyo.hoyolab/.splash.splash.HoYoSplashActivity}"
+            drawable="hoyolab" />
+    <item
+            component="ComponentInfo{com.jingdong.app}"
+            drawable="jingdong" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.kwai.smilegif}"
+            drawable="kwai" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.bbk.ui.appstore/com.bbk.appstore.ui.Appstore}"
+            drawable="market" />
+    <item
+            component="ComponentInfo{com.vivo.space/.ui.LogoActivity}"
+            drawable="market2" />
+    <item
+            component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+            drawable="message" />
+    <item
+            component="ComponentInfo{com.android.bbkmusic/com.android.bbkmusic.WidgetToTrackActivity}"
+            drawable="music" />
+    <item
+            component="ComponentInfo{com.android.notes/com.android.notes.Notes}"
+            drawable="notes" />
+    <item
+            component="ComponentInfo{com.xunmeng.pingduoduo}"
+            drawable="pinduoduo" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}"
+            drawable="qq" />
+    <item
+            component="ComponentInfo{com.tencent.video}"
+            drawable="qqvideo" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.vivo.ireader}"
+            drawable="reader" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.vivo.smartshot/com.vivo.smartshot.settings.SettingsMenuGuideActivity}"
+            drawable="screenrecorder" />
+    <item
+            component="ComponentInfo{com.iqoo.secure/com.iqoo.secure.MainActivity}"
+            drawable="security" />
+    <item
+            component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+            drawable="settings" />
+    <item
+            component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+            drawable="taobao" />
+    <item
+            component="ComponentInfo{com.bbk.theme/com.bbk.theme.Theme}"
+            drawable="thememanager" />
+    <item
+            component="ComponentInfo{com.bytedance.tiktok}"
+            drawable="tiktok" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.toutiao}"
+            drawable="toutiao" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.android.VideoPlayer/}"
+            drawable="video" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.vivo.assistant/}"
+            drawable="voiceassistant" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.vivo.agent/com.vivo.agent.view.activities.JoviHomeNewActivity}"
+            drawable="voiceassist" />
+    <item
+            component="ComponentInfo{com.vivo.wallet/}"
+            drawable="wallet" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.vivo.weather/com.vivo.weather.WeatherMain}"
+            drawable="weather" />
+    <item
+            component="ComponentInfo{com.tencent.mm/}"
+            drawable="wechat" /><!-- Unknown Package Name -->
+    <item
+            component="ComponentInfo{com.miHoYo.Yuanshen/com.miHoYo.GetMobileInfo.MainActivity}"
+            drawable="yuanshen" />
 </resources>
