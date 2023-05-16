@@ -56,6 +56,7 @@
         <!-- K -->
         <item>kwai</item>
         <!-- L -->
+        <item>launcher</item>
         <!-- M -->
         <item>market</item>
         <item>market2</item>
@@ -141,6 +142,7 @@
         <!-- K -->
         <item>Kwai</item>
         <!-- L -->
+        <item>LauncherDashIcon</item>
         <!-- M -->
         <item>Market</item>
         <item>Market_Alt</item>
@@ -190,11 +192,6 @@
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
         <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
     </string-array>
 
 </resources>

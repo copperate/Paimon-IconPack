@@ -66,7 +66,7 @@
         drawable="sms" />-->
 
     <!-- The whole 31 icons are required, or it doesn't work. -->
-    <!--<calendar
+    <calendar
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         prefix="calendar_d" />
     <calendar
@@ -85,11 +85,14 @@
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
         prefix="calendar_d" />
     <calendar
+            component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}"
+            prefix="calendar_d"/>
+    <calendar
         component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
         prefix="calendar_d" />
     <calendar
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
-        prefix="calendar_d" />-->
+        prefix="calendar_d" />
 
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
@@ -185,7 +188,7 @@
             component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
             drawable="bilibili" />
     <item
-            component="ComponentInfo{com.bilibili.app.in}"
+            component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.MainActivityV2}"
             drawable="bilibili" /><!-- Unknown Package Name -->
     <item
             component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}"
@@ -231,7 +234,7 @@
             drawable="gamecenter" />
     <item
             component="ComponentInfo{com.android.health}"
-            drawable="helath" /> <!-- Unknown Package Name -->
+            drawable="health" /> <!-- Unknown Package Name -->
     <item
             component="ComponentInfo{com.mihoyo.hyperion/com.mihoyo.hyperion.ui.SplashActivity}"
             drawable="hoyolab" />
@@ -251,7 +254,7 @@
             component="ComponentInfo{com.bbk.ui.appstore/com.bbk.appstore.ui.Appstore}"
             drawable="market" />
     <item
-            component="ComponentInfo{com.vivo.space/.ui.LogoActivity}"
+            component="ComponentInfo{com.vivo.space/com.vivo.space.ui.LogoActivity}"
             drawable="market2" />
     <item
             component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"

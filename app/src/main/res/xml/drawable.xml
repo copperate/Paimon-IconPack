@@ -39,7 +39,7 @@
     <category title="Alternative" /><!-- Copy alternative icons here from All category -->
 
 
-    <category title="All(8)" /><!-- All icons here -->
+    <category title="All" /><!-- All icons here -->
     <!-- A -->
     <item drawable="alipay" />
     <item drawable="amap" />
@@ -76,6 +76,7 @@
     <!-- K -->
     <item drawable="kwai" />
     <!-- L -->
+    <item drawable="launcher" />
     <!-- M -->
     <item drawable="market" />
     <item drawable="market2" />
