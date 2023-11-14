@@ -32,4 +32,8 @@
         android:title="@string/nav_all"
         android:icon="@drawable/ic_nav_all" />
 
+    <item android:title="@string/nav_bg"
+          android:id="@+id/nav_bg"
+          android:icon="@drawable/ic_action_apply_light"/>
+
 </menu>

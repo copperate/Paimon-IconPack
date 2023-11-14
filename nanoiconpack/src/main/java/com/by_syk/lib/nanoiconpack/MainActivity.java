@@ -30,9 +30,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import android.view.View;
 import com.by_syk.lib.nanoiconpack.dialog.ApplyDialog;
 import com.by_syk.lib.nanoiconpack.fragment.AppsFragment;
 import com.by_syk.lib.nanoiconpack.fragment.IconsFragment;
+import com.by_syk.lib.nanoiconpack.fragment.WallpaperFragment;
 import com.by_syk.lib.nanoiconpack.util.AllIconsGetter;
 import com.by_syk.lib.nanoiconpack.util.ExtraUtil;
 import com.by_syk.lib.nanoiconpack.util.MatchedIconsGetter;
@@ -74,7 +76,7 @@ public class MainActivity extends AppCompatActivity
         viewPager = (ViewPager) findViewById(R.id.view_pager);
         bottomNavigationView = (BottomNavigationView) findViewById(R.id.navigation_view);
 
-        viewPager.setOffscreenPageLimit(3); // Keep all 3 pages alive.
+        viewPager.setOffscreenPageLimit(4); // Keep all 3 pages alive.
         viewPager.setPageTransformer(true, new SimplePageTransformer(getResources()
                 .getInteger(R.integer.home_page_transform_anim)));
         viewPager.setAdapter(new IconsPagerAdapter(getSupportFragmentManager()));
@@ -106,6 +108,8 @@ public class MainActivity extends AppCompatActivity
                     viewPager.setCurrentItem(1);
                 } else if (id == R.id.nav_all) {
                     viewPager.setCurrentItem(2);
+                } else if (id == R.id.nav_bg) {
+                    viewPager.setCurrentItem(3);
                 }
                 if (!enableStatsModule) {
                     return true;
@@ -169,7 +173,18 @@ public class MainActivity extends AppCompatActivity
             }
         }, 100);
     }
-
+    public void WallpaperClicked1(View view)
+    {
+        Intent WallpaperPreview = new Intent(this,WallpaperViewActivity.class);
+        WallpaperPreview.putExtra("BgCode",1);
+        startActivity(WallpaperPreview);
+    }
+    public void WallpaperClicked2(View view)
+    {
+        Intent WallpaperPreview = new Intent(this,WallpaperViewActivity.class);
+        WallpaperPreview.putExtra("BgCode",2);
+        startActivity(WallpaperPreview);
+    }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -221,6 +236,9 @@ public class MainActivity extends AppCompatActivity
             case 2:
                 menuItem.setTitle(getString(R.string.nav_all) + "(" + sum + ")");
                 break;
+            case 3:
+                menuItem.setTitle(getString(R.string.nav_bg) + "(0)");
+                break;
         }
     }
 
@@ -240,13 +258,15 @@ public class MainActivity extends AppCompatActivity
                 case 2:
                     return IconsFragment.newInstance(position, new AllIconsGetter(),
                             getResources().getInteger(R.integer.home_grid_item_mode));
+                case 3:
+                    return WallpaperFragment.newInstance(position);
             }
             return null;
         }
 
         @Override
         public int getCount() {
-            return 3;
+            return 4;
         }
     }
 }

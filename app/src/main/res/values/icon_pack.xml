@@ -21,11 +21,7 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
         <!-- A -->
-        <item>alipay</item>
-        <item>amap</item>
         <!-- B -->
-        <item>baidu</item>
-        <item>bilibili</item>
         <item>browser</item>
         <!-- C -->
         <item>calendar</item>
@@ -35,31 +31,21 @@
         <item>clock</item>
         <item>compass</item>
         <item>contact</item>
-        <item>ctrip</item>
         <!-- D -->
-        <item>dazhongdianping</item>
+        <item>drawer</item>
         <item>dialer</item>
         <!-- E -->
         <item>easyshare</item>
-        <item>email</item>
         <!-- F -->
-        <item>files</item>
         <!-- G -->
         <item>gallery</item>
-        <item>gamecenter</item>
         <!-- H -->
         <item>health</item>
-        <item>hoyolab</item>
         <!-- I -->
         <!-- J -->
-        <item>jingdong</item>
         <!-- K -->
-        <item>kwai</item>
         <!-- L -->
-        <item>launcher</item>
         <!-- M -->
-        <item>market</item>
-        <item>market2</item>
         <item>message</item>
         <item>messaging</item>
         <item>music</item>
@@ -69,49 +55,32 @@
         <!-- O -->
         <!-- P -->
         <item>phone</item>
-        <item>pinduoduo</item>
         <!-- Q -->
-        <item>qq</item>
-        <item>qqvideo</item>
         <!-- R -->
-        <item>reader</item>
+        <item>recorder</item>
         <!-- S -->
-        <item>screenrecorder</item>
-        <item>securitycenter</item>
-        <item>service</item>
         <item>settings</item>
         <item>sms</item>
         <!-- T -->
-        <item>taobao</item>
-        <item>thememanager</item>
-        <item>tiktok</item>
-        <item>toutiao</item>
         <!-- U -->
         <!-- V -->
-        <item>videoplayer</item>
-        <item>voiceassistant</item>
         <!-- W -->
         <item>wallet</item>
         <item>weather</item>
-        <item>wechat</item>
-        <item>weibo</item>
         <!-- X -->
-        <item>ximalaya</item>
         <!-- Y -->
-        <item>yuanshen</item>
         <!-- Z -->
-        <item>zhihu</item>
+        <item>z_home</item>
+        <item>z_remotecontroller</item>
+        <item>z_shortcuts</item>
+        <item>z_voiceassistant</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
-        <item>Alipay</item>
-        <item>Amap</item>
         <!-- B -->
-        <item>Baidu Search App</item>
-        <item>Bilibili</item>
         <item>Browser</item>
         <!-- C -->
         <item>Calendar</item>
@@ -121,31 +90,21 @@
         <item>Clock</item>
         <item>Compass</item>
         <item>Contact</item>
-        <item>Ctrip</item>
         <!-- D -->
-        <item>Da Zhong Dian Ping</item>
+        <item>Drawer Icon</item>
         <item>Dialer</item>
         <!-- E -->
         <item>Easyshare</item>
-        <item>Email</item>
         <!-- F -->
-        <item>Files</item>
         <!-- G -->
         <item>Gallery</item>
-        <item>Game Center</item>
         <!-- H -->
         <item>Health</item>
-        <item>Hoyolab</item>
         <!-- I -->
         <!-- J -->
-        <item>Jingdong</item>
         <!-- K -->
-        <item>Kwai</item>
         <!-- L -->
-        <item>LauncherDashIcon</item>
         <!-- M -->
-        <item>Market</item>
-        <item>Market_Alt</item>
         <item>Message</item>
         <item>Messaging</item>
         <item>Music</item>
@@ -154,44 +113,35 @@
         <item>Notes</item>
         <!-- O -->
         <!-- P -->
-        <item>Call</item>
-        <item>Pinduoduo</item>
+        <item>Phone</item>
         <!-- Q -->
-        <item>QQ</item>
-        <item>QQ Video</item>
         <!-- R -->
-        <item>Reader</item>
+        <item>Recorder</item>
         <!-- S -->
-        <item>Screen Recorder</item>
-        <item>Security Center</item>
-        <item>Service</item>
         <item>Settings</item>
+        <item>SMS</item>
         <!-- T -->
-        <item>Taobao</item>
-        <item>Theme Manager</item>
-        <item>Tiktok</item>
-        <item>Toutiao</item>
         <!-- U -->
         <!-- V -->
-        <item>Video Player</item>
-        <item>Voice Assistant</item>
         <!-- W -->
         <item>Wallet</item>
         <item>Weather</item>
-        <item>Wechat</item>
-        <item>Weibo</item>
         <!-- X -->
-        <item>Ximalaya</item>
         <!-- Y -->
-        <item>Genshin Impact</item>
         <!-- Z -->
-        <item>Zhihu</item>
+        <item>Home</item>
+        <item>Remote Controller</item>
+        <item>Shortcuts</item>
+        <item>Voice Assistant</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>nano_icon_pack_1</item>
+        <item>z_home</item>
+        <item>z_remotecontroller</item>
+        <item>z_shortcuts</item>
+        <item>z_voiceassistant</item>
     </string-array>
 
 </resources>

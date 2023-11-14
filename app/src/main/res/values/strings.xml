@@ -18,7 +18,7 @@
 <resources>
 
     <!-- App name -->
-    <string name="app_name">HuTao.Iconpack</string>
+    <string name="app_name">Paimon.Iconpack</string>
 
     <!-- For Apex Launcher, means icon pack author -->
     <string name="developer_name">copperate</string>
@@ -42,7 +42,9 @@
     <string name="preference_icons_title_todo_1"></string>
     <string name="preference_icons_summary_todo_1"></string>
     <string name="preference_icons_title_copyright">Project Source</string>
-    <string name="preference_support_summary_donate">此方文档</string>
+    <string name="preference_support_summary_donate" translatable="false">-
+        (https://github.com/copperate/Paimon-IconPack/releases)
+    </string>
     <string name="preference_support_title_todo_1">Our Other Apps</string>
     <string name="preference_support_summary_todo_1">0 on your phone</string>
     <string name="preference_support_title_sponsors">Sponsors</string>
@@ -52,7 +54,11 @@
     <string name="preference_app_summary_app">v%1$s (%2$d)</string>
     <string name="preference_app_title_todo_1"></string>
     <string name="preference_app_summary_todo_1"></string>
-    <string name="preference_support_title_donate">Organization</string>
-    <string name="preference_icons_summary_copyright">" [View on Github](https://github.com/copperate/HutaoIconPack) "</string>
+    <string name="preference_icons_summary_copyright">" [View on Github](https://github.com/copperate/Paimon-IconPack)
+        "
+    </string>
+    <string name="preference_support_title_donate">Check for updates</string>
+    <string name="wallpaper_01_title">派蒙壁纸 01</string>
+    <string name="wallpaper_02_title">派蒙壁纸 02</string>
 
 </resources>

@@ -56,8 +56,8 @@
     <string name="toast_not_installed">未安装 %s 或其已被停用</string>
     <string name="toast_code_copied">已复制APP代码</string>
     <string name="toast_code_copy_failed">复制APP代码失败 :(</string>
-    <string name="toast_icon_saved">图标已保存到图库</string>
-    <string name="toast_icon_save_failed">图标保存失败 :(</string>
+    <string name="toast_icon_saved">已保存到图库</string>
+    <string name="toast_icon_save_failed">保存失败 :(</string>
     <string name="toast_no_net_conn">无网络连接 :(</string>
     <string name="toast_no_net_no_req">无网络连接，无法申请适配 :(</string>
     <string name="toast_icon_reqed">申请适配成功</string>
@@ -111,5 +111,7 @@
     <string name="prompt_req_add">提醒补充适配</string>
     <string name="search_hint">搜索图标&#8230;</string>
     <string name="preference_category_support">其它信息</string>
+    <string name="nav_bg">壁纸</string>
+    <string name="title_activity_wallpaper_view">壁纸预览</string>
 
 </resources>
